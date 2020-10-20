@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Protobuf",
+	"Description": "protobuf 3.6.1 cpp(protobuf-cpp-3.6.1.zip)",
+	"Category": "Other",
+	"CreatedBy": "google",
+	"CreatedByURL": "https://github.com/protocolbuffers/protobuf/releases/tag/v3.6.1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Protobuf",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
